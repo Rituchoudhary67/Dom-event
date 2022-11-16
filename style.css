@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .mouse-over-div {
+    padding: 100px;
+    margin: 50px;
+    border: 1px solid black;
+  }
+  
+  #simple-button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 30px;
+  }
+  
+  #the-number {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 30px;
+  }
+  
